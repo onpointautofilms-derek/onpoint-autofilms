@@ -54,10 +54,10 @@ export default function ContactSection() {
           <p className="!text-zinc-300 mb-4 !text-base">
             Prefer to speak directly? Give us a call at{" "}
             <a
-              href="tel:+12508595432"
+              href="tel:+17787608077"
               className="text-neon-teal font-semibold hover:underline"
             >
-              (250) 859-5432
+              (778) 760-8077
             </a>
             —we’d love to hear from you.
           </p>
