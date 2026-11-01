@@ -7,16 +7,16 @@ import Link from "next/link";
 
 const services = [
   {
-    title: "Vinyl Wrap",
-    description:
-      "Transform the look of your vehicle with custom vinyl wraps. Bold colors, textures, and flawless installs.",
-    image: "/vinyl-wrap.jpg",
-  },
-  {
     title: "Paint Protection Film (PPF)",
     description:
-      "Industry-grade PPF that shields your vehicle from rock chips, scratches, and the harsh elements.",
+      "Industry Leading and Technologically advanced PPF. Tested and proven to withstand our climate and prevent damage from road debris, UV fade, bug ecthing, and more.",
     image: "/ppf.jpg",
+  },
+  {
+    title: "Vinyl Wrap",
+    description:
+      "Transform the look of your vehicle with custom vinyl wraps. Bold colors, textures, and flawless installs",
+    image: "/vinyl-wrap.jpg",
   },
   {
     title: "Ceramic Coating",
